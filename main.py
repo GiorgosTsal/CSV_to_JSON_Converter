@@ -3,19 +3,8 @@ import json
 
 
 
-#
-# fhand = open('C:\\Users\Win User 7\Desktop\GiorgosTsalidis\csvToJSON\myJsons\Test1.json')
-# count = 0
-# for line in fhand:
-#     count = count + 1
-# print('Line Count:', count)
-#
-#
-
-
-
-csvFilePath = "C:\\Users\Win User 7\Desktop\GiorgosTsalidis\csvToJSON\sample_thodoris.csv"
-jsonFilePath = "C:\\Users\Win User 7\Desktop\GiorgosTsalidis\csvToJSON\myJsons\Test"
+csvFilePath = "\sample.csv"
+jsonFilePath = "csvToJSON\myJsons\Test"
 jsonExtension = ".json"
 
 
